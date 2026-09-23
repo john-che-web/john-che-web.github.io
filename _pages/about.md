@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "John Che: About Me"
+title: "About Me"
+browser_title: "John Che"
 author_profile: true
 redirect_from: 
   - /about/
