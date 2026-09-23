@@ -12,7 +12,7 @@ site_theme               : "air" # Currently available options are "default", "a
 title                    : "John Che "
 title_separator          : "-"
 name                     : &name "John Che"
-description              : &description "Researching and building responsible computing systems. Exploring how technology can be made more equitable, secure, and human-centered. Master of Science in Computer Science, UW–Madison."   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Doctoral Student at Grouplens Research. Conduct research in HCI."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://john-che-web.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,9 +26,9 @@ author:
   avatar           : "\\Profile_Photo.jpg"
   name             : "John Che"
   pronouns         : # example: "she/her"  
-  bio              : "Doctoral Student - Computer Science <br> University of Minnesota - Twin Cities <br> MSc. Computer Science <br> Bsc. Computer Engineering <br> UW-Madison"
-  location         : "Madison, WI"
-  employer         : "UW-Madison"
+  bio              : "Doctoral Student - CS <br> Univ. of Minnesota - Twin Cities <br> MSc. Computer Science <br> Bsc. Computer Engineering <br> UW-Madison"
+  location         : "Minneapolis, MN"
+  employer         : "University of Minnesota - Twin Cities"
   uri              : #"https://cdis.wisc.edu/"
   email            : "john [o] che [at] wisc [o] edu" 
 
