@@ -17,7 +17,7 @@ During my Master's, I conducted research in efficient computing by developing re
 
 Beyond research, I am committed to mentorship and community engagement. I volunteer for academic conferences (RecSys), previously served on the Advisory Board for UW–Madison’s Department of Computer Sciences, and actively support initiatives that advance diversity and equitable opportunities in computing.
 
-I am always excited to connect with researchers, practitioners, and collaborators who share a passion for responsible AI, HCI, and equitable technology—feel free to reach!
+I am always excited to connect with researchers, practitioners, and collaborators who share a passion for responsible AI, HCI, and equitable technology—feel free to reach out!
 
 
 **Core Skills:**
