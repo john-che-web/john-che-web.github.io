@@ -8,19 +8,17 @@ redirect_from:
 ---
 
 
-Hi, I’m John Che, and I hold a Bachelor’s degree in [Computer Engineering](https://engineering.wisc.edu/departments/electrical-computer-engineering/) and a Master’s degree in [Computer Science](https://www.cs.wisc.edu/) from the [University of Wisconsin–Madison](https://www.wisc.edu/). My work focuses on designing scalable, responsible systems at the intersection of machine learning, information security, and data engineering that turn complex data into actionable insights while prioritizing equity and accessibility.
+Hi, I’m John Che, a Doctoral Student in Computer Science at the University of Minnesota–Twin Cities, co-advised by [Joe Konstan](https://en.wikipedia.org/wiki/Joseph_A._Konstan) and [Loren Terveen](https://en.wikipedia.org/wiki/Loren_Terveen). I work in the [GroupLens](https://grouplens.org/) HCI research lab, best known for pioneering the field of automated recommender systems, collaborative filtering, and MovieLens. I obtained my Bachelor’s degree in Computer Engineering and a Master’s degree in Computer Science from the [University of Wisconsin–Madison](https://www.wisc.edu/). 
 
-As an Operations Research Fellow with the [University of Wisconsin System Office of Information Security](https://www.wisconsin.edu/offices/), I lead initiatives analyzing terabytes of log and telemetry data across 13 campuses, building cloud-native pipelines, ETL workflows, and data visualizations that enhance security analytics and decision-making.
+Formerly, my work focused on designing scalable, responsible systems at the intersection of machine learning, information security, and data engineering. I worked as an Operations Research Fellow with the [University of Wisconsin System Office of Information Security](https://www.wisconsin.edu/offices/), where I led initiatives analyzing terabytes of log and telemetry data across 13 campuses—building cloud-native pipelines and ETL workflows to enhance security analytics across higher education.
 
-My research spans quantitative and human-centered methods. I have developed resource-efficient distributed architectures for multilingual NLP models, improving performance while drastically reducing hardware costs, and conducted a qualitative study on passkey adoption that produced a novel taxonomy of platform-level usability barriers. These projects reflect my philosophy of ensuring technology is both high-performing and socially responsible.
+During my Master's, I conducted research in efficient computing by developing resource-efficient, distributed architectures for multilingual NLP models to boost performance while reducing hardware costs. I also gained experience in digital privacy and security through a qualitative study on passkey adoption, investigating platform-level usability barriers. Together, these projects reflect my broad research interests within HCI.
 
-I have also applied these principles in public-interest contexts, such as building a HIPAA-compliant data platform for mental health clinics at the [Wisconsin Department of Health](https://www.dhs.wisconsin.gov/), where I identified systemic constraints and designed solutions that empowered under-resourced organizations serving over 70,000 Wisconsin residents.
+Beyond research, I am committed to mentorship and community engagement. I volunteer for academic conferences (RecSys), previously served on the Advisory Board for UW–Madison’s Department of Computer Sciences, and actively support initiatives that advance diversity and equitable opportunities in computing.
 
-Beyond research, I am committed to mentorship and community engagement. I have served on the Advisory Board for UW–Madison’s Department of Computer Science and support initiatives advancing diversity and equitable opportunities in computing.
-
-I aim to build resilient, intelligent, and equitable data systems that help organizations and communities make better decisions, and I bring a unique combination of technical mastery, human-centered research, and policy awareness to every project.
+I am always excited to connect with researchers, practitioners, and collaborators who share a passion for responsible AI, HCI, and equitable technology—feel free to reach!
 
 
 **Core Skills:**
 
-Python \| SQL \| ETL \| Data Engineering \| Cloud Computing (AWS, GCP) \| Distributed Systems \| Machine Learning \| PyTorch \| Spark \| APIs \| Docker \| Data Visualization (Tableau, Elasticsearch) \| Information Security \| CI/CD \| Research Design
+Python \| Machine Learning \| Distributed Systems \| Research Design
